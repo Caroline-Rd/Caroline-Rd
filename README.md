@@ -25,7 +25,7 @@
 <p> 
 Olá 👋 Eu sou Caroline Ribeiro, Graduação em tecnologia da informação.</p>
   <p>Tecnico em Front-End e AWS.</p>
-[![LinkedIn]https://www.linkedin.com/in/caroline-ribeiro-dias/
+[![LinkedIn](https://www.linkedin.com/in/caroline-ribeiro-dias/)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
