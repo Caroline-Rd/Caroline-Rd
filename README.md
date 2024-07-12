@@ -28,7 +28,7 @@
 Olá 👋 Eu sou Caroline Ribeiro.</p>
 <p> Cursando 7º Perido em tecnologia da informação</p>
   <p>Tecnico em Front-End e AWS.</p>
-  Linkedin:  https://www.linkedin.com/in/caroline-ribeiro-dias/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-ribeiro-dias/)
 
 
 
