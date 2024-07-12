@@ -19,13 +19,9 @@
 
 
 <p align="center">
-  <img align="right" width=50% src="![Rr20](https://github.com/user-attachments/assets/26828e22-61b9-4d9c-bc59-285643ac124f)"
-
-
-</p>
-
-<p> 
-Olá 👋 Eu sou Caroline Ribeiro.</p>
+  <img align="right" width=50% src="![Rr20](https://github.com/user-attachments/assets/26828e22-61b9-4d9c-bc59-285643ac124f)"></p>
+ 
+<p>Olá 👋 Eu sou Caroline Ribeiro.</p>
 <p> Cursando 7º Perido em tecnologia da informação</p>
   <p>Tecnico em Front-End e AWS.</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-ribeiro-dias/)
