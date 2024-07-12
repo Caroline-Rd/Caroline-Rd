@@ -22,7 +22,7 @@
 </p>
 
 <p> Olá 👋 Eu sou Caroline Ribeiro. <p/>
-</p>>Atualmente cursando o 7°  periodo em tecnologia da informação</p>
+<p>Atualmente cursando o 7°  periodo em tecnologia da informação</p>
 <p>Tenho curso tecnico de Front-end e AWS pelo Senai.</p>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-ribeiro-dias/)
