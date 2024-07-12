@@ -1,4 +1,4 @@
-# <h2>Desenvolvedor Python Full-stack</h2>
+# <h2>Desenvolvedora Front-</h2>
 
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
@@ -17,16 +17,15 @@
   />
 </picture>
 
-<h2 align="center">print('hello world!')</h2>
 
 <p align="center">
   <img align="right" width=50% src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
 </p>
 
 <p> 
-Olá 👋 Eu sou Hugo Kalixto, estudante de programação no Senai Bras 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/i/christian-oliveira-925532257/)
+Olá 👋 Eu sou Caroline Ribeiro, Graduação em tecnologia da informação.</p>
+  <p>Tecnico em Front-End e AWS.</p>
+[![LinkedIn](https://www.linkedin.com/in/caroline-ribeiro-dias/)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
