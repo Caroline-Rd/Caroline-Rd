@@ -19,7 +19,8 @@
 
 
 <p align="center">
-  <img align="right" width=50% src="![RxgL](https://github.com/user-attachments/assets/25687b86-1f71-48cf-a0c9-18da28dd7756)">
+  <img align="right" width=50% src="![Rr20](https://github.com/user-attachments/assets/26828e22-61b9-4d9c-bc59-285643ac124f)"
+
 
 </p>
 
