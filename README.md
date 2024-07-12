@@ -30,5 +30,4 @@ Tenho curso tecnico de Front-end e AWS pelo Senai.
 
 
 
-## 🔥Skills!
 
